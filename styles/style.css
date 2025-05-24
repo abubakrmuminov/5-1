@@ -1,0 +1,25 @@
+.btns {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: 100px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.all{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    width: 1000px;
+    gap: 30px;
+}
+
+#lang{
+    margin-top: 125px;
+}
